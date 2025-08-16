@@ -1,27 +1,28 @@
-# Visualizaciones y Análisis de Datos
-Repositorio para el Curso Maestro de Visualizaciones y Análisis de Datos
+#Data Visualizations and Analysis
+Repository for the Master Course on Data Visualizations and Analysis
 
-Más de 45 ejemplos de visualizaciones en Matplotlib, Pandas, Seaborn, Plotly, Bokeh y Networkx
+45+ visualization examples in Matplotlib, Pandas, Seaborn, Plotly, Bokeh, and Networkx
 
-## Nivel 0: Introducción
-Introducción a Pandas y Jupyter Notebook
+#Level 0: Introduction
+Introduction to Pandas and Jupyter Notebook
 
-## Nivel 1: Visualizaciones Univariables
-Gráfico de Barras, Cajas, Violines, Pies, Donas, Histogramas, Histogramas Acumulativos, KDEs, Líneas, Áreas, Áreas Agrupadas y Apiladas.
+#Level 1: Univariate Visualizations
+Bar Chart, Box Chart, Violin Chart, Pie Chart, Donut Chart, Histogram Chart, Cumulative Histogram, KDE Chart, Line Chart, Area Chart, Grouped Chart, Stacked Chart.
 
-## Nivel 2: Visualizaciones Multivariables
-Gráfico de Barras Apiladas y Múltiples, Dispersión, Dispersión Categórico, Regresión, JointPlot, PairPlot, Burbuja, Radar, Regresión, Líneas con doble Eje Y, Barras con Líneas, Mapa de Calor, Mapa de Calor de Correlación, Hexabin, Diagrama de Coordenadas Paralelas.
+#Level 2: Multivariate Visualizations
+Stacked and Multiple Bar Chart, Scatter, Categorical Scatter, Regression, JointPlot, PairPlot, Bubble, Radar, Regression, Lines with Dual Y Axis, Bars with Lines, Heat Map, Correlation Heat Map, Hexabin, Parallel Coordinate Plot.
 
-## Nivel 3: Visualizaciones Geográficas
-Mapa de Puntos, Mapa de Burbujas, Mapa de Calor, Choropleths, Mapa de Calor con Animación
+#Level 3: Geographic Visualizations
+Dot Map, Bubble Map, Heat Map, Choropleths, Heat Map with Animation
 
-## Nivel 4: Visualizaciones de Redes
-Grafo de Interacción, Mapa de Conexiones y Flujo, Diagrama de Cuerdas
+#Level 4: Network Visualizations
+Interaction Graph, Connection and Flow Map, Chord Diagram
 
-## Nivel 5: Visualizaciones Jerárquicas
+#Level 5: Hierarchical Visualizations
 Treemap, Sunburst
 
-## Nivel 6: Otras Visualizaciones Especiales
-Series de Tiempo, Nubes de Palabras, Diagramas de Venn, Diagrama de Dispersión en 3D, Stream Graph.
+#Level 6: Other Special Visualizations
+Time Series, Word Clouds, Venn Diagrams, 3D Scatter Plots, Stream Graphs.
+
 
 
